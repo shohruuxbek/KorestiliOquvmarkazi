@@ -8,7 +8,8 @@ node_modules/
 
 # Production builds
 /build
-/dist
+/frontend/dist
+/backend/dist
 
 # Logs
 logs
